@@ -8,7 +8,7 @@ https://ej2.syncfusion.com/vue/documentation/spreadsheet/worksheet
 The editing documentation for the Syncfusion Vue Spreadsheet component: 
 https://ej2.syncfusion.com/vue/documentation/spreadsheet/editing
 
-Check out this online example of creating and editing worksheet in the Syncfusion Vue Spreadsheet component:
+Check out this online example of creating and editing a worksheet in the Syncfusion Vue Spreadsheet component:
 https://ej2.syncfusion.com/vue/demos/#/material/spreadsheet/default.html 
 
 The getting started documentation for the Syncfusion Vue Spreadsheet component: 
