@@ -1,17 +1,17 @@
 # How to Create and Edit Worksheets in the Vue Spreadsheet
 
-A quick-start project that shows you how to create and edit worksheets in the Syncfusion Vue Spreadsheet component. This project contains simple code to add, delete, rename, and hide sheets, as well as edit cells, and save or cancel changes.
+A quick-start project that shows you how to create and edit worksheets in the [Vue Spreadsheet](https://www.syncfusion.com/spreadsheet-editor-sdk/vue-spreadsheet-editor) component. This project contains simple code to add, delete, rename, and hide sheets, as well as edit cells, and save or cancel changes.
 
-The worksheet documentation for the Syncfusion Vue Spreadsheet component: 
+The worksheet documentation for the Vue Spreadsheet component: 
 https://ej2.syncfusion.com/vue/documentation/spreadsheet/worksheet 
 
-The editing documentation for the Syncfusion Vue Spreadsheet component: 
+The editing documentation for the Vue Spreadsheet component: 
 https://ej2.syncfusion.com/vue/documentation/spreadsheet/editing
 
-Check out this online example of creating and editing a worksheet in the Syncfusion Vue Spreadsheet component:
+Check out this online example of creating and editing a worksheet in the Vue Spreadsheet component:
 https://ej2.syncfusion.com/vue/demos/#/material/spreadsheet/default.html 
 
-The getting started documentation for the Syncfusion Vue Spreadsheet component: 
+The getting started documentation for the Vue Spreadsheet component: 
 https://ej2.syncfusion.com/vue/documentation/spreadsheet/vue-3-getting-started
 
 The Vue Spreadsheet Getting Started video:
